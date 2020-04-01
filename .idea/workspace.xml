@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6caffedc-382b-4b77-98fa-fc5105a05087" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/lib/go" />
+  <component name="ProjectId" id="1YpE8pioGoGFxfCdSvCJk2Ag6pv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build onlinejudgeForward" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="onlinejudgeForward" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/mian.go" />
+      <package value="onlinejudgeForward" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build onlinejudgeForward" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="311" width="424" height="478" key="FileChooserDialogImpl" timestamp="1583758259780">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="478" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1583758259780" />
+    <state width="1314" height="365" key="GridCell.Tab.0.bottom" timestamp="1584859704139">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1314" height="365" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584859704139" />
+    <state width="1314" height="365" key="GridCell.Tab.0.center" timestamp="1584859704139">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1314" height="365" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584859704139" />
+    <state width="1314" height="365" key="GridCell.Tab.0.left" timestamp="1584859704139">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1314" height="365" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584859704139" />
+    <state width="1314" height="365" key="GridCell.Tab.0.right" timestamp="1584859704139">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1314" height="365" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584859704139" />
+  </component>
+</project>
